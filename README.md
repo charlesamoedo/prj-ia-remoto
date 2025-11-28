@@ -8,3 +8,6 @@ Este é um projeto simples para aprender Git e como ele pode ser usado com IA.
 ## Status
 
 Em desenvolvimento inicial.
+
+# Alteração direta no repositório Git
+Essa alteração foi feita diretamente na Web.
