@@ -15,3 +15,5 @@ Essa alteração foi feita diretamente na Web.
 # 3. Excelente prática
 Com práticas diárias, isso se tornará mais fuído.
 
+# 4. Teste final de alteração
+Enviar apenas com git push
