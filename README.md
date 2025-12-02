@@ -17,3 +17,5 @@ Com práticas diárias, isso se tornará mais fuído.
 
 # 4. Teste final de alteração
 Enviar apenas com git push
+
+# 5. Fechando entendimento 02.12.2025
